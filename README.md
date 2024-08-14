@@ -1,3 +1,4 @@
 # amazon
 my first responsive website
-Author Divyansh Soni
+<br>
+Author - Divyansh Soni
